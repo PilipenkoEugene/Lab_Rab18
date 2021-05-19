@@ -1,0 +1,45 @@
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\MainWindow.g.cs
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\App.g.cs
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\LW__18_MarkupCompile.cache
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\LW__18_MarkupCompile.lref
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\MainWindow.baml
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\LW__18.g.resources
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\LW__18.pdb
+C:\Users\Beast\Desktop\LW__18\obj\Debug\LW__18.csprojAssemblyReference.cache
+C:\Users\Beast\Desktop\LW__18\obj\Debug\MainWindow.g.cs
+C:\Users\Beast\Desktop\LW__18\obj\Debug\App.g.cs
+C:\Users\Beast\Desktop\LW__18\obj\Debug\LW__18_MarkupCompile.cache
+C:\Users\Beast\Desktop\LW__18\obj\Debug\LW__18_MarkupCompile.lref
+C:\Users\Beast\Desktop\LW__18\obj\Debug\MainWindow.baml
+C:\Users\Beast\Desktop\LW__18\obj\Debug\LW__18.g.resources
+C:\Users\Beast\Desktop\LW__18\obj\Debug\LW__18.pdb
+C:\Users\Beast\Desktop\LW__18\bin\Debug\LW__18.exe.config
+C:\Users\Beast\Desktop\LW__18\bin\Debug\LW__18.exe
+C:\Users\Beast\Desktop\LW__18\bin\Debug\LW__18.pdb
+C:\Users\Beast\Desktop\LW__18\obj\Debug\LW__18.Properties.Resources.resources
+C:\Users\Beast\Desktop\LW__18\obj\Debug\LW__18.csproj.GenerateResource.cache
+C:\Users\Beast\Desktop\LW__18\obj\Debug\LW__18.csproj.CoreCompileInputs.cache
+C:\Users\Beast\Desktop\LW__18\obj\Debug\LW__18.exe
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\bin\Debug\LW__18.exe.config
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\bin\Debug\LW__18.exe
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\bin\Debug\LW__18.pdb
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\LW__18.csprojAssemblyReference.cache
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\LW__18.Properties.Resources.resources
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\LW__18.csproj.GenerateResource.cache
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\LW__18.csproj.CoreCompileInputs.cache
+D:\СКФУ\2 КУРС\Технологии программирования\4 семестр\LW__18\obj\Debug\LW__18.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\bin\Debug\LW__18.exe.config
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\bin\Debug\LW__18.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\bin\Debug\LW__18.pdb
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\LW__18.csprojAssemblyReference.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\MainWindow.g.cs
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\App.g.cs
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\LW__18_MarkupCompile.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\LW__18_MarkupCompile.lref
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\MainWindow.baml
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\LW__18.g.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\LW__18.Properties.Resources.resources
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\LW__18.csproj.GenerateResource.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\LW__18.csproj.CoreCompileInputs.cache
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\LW__18.exe
+D:\Женя\Студенчество\2 КУРС\2 Семестр\Технологии программирования\LR18\obj\Debug\LW__18.pdb
